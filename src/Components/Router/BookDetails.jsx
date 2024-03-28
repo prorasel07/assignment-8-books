@@ -17,22 +17,13 @@ const BookDetails = () => {
   }, []);
 
   const handleRead = () => {
-    const res = setLocalStorage("read", book.bookId);
-    if (res.success) {
-      toast.success(res.message);
-      return;
-    }
-    toast.warning(res.message);
+    setLocalStorage("read", book.bookId);
+    
   };
 
   const handleWishlist = () => {
-    const res = setLocalStorage("wishlists", book.bookId);
+     setLocalStorage("wishlists", book.bookId);
 
-    if (res.success) {
-      toast.success(res.message);
-      return;
-    }
-    toast.warning(res.message);
   };
 
   console.log(book)

@@ -21,11 +21,7 @@ const PagesToRead = () => {
     chart: {
       id: 'apexchart-example',
       toolbar: { show: false },
-      stroke: {
-        curve: 'smooth',
-        // OR provide an array
-        curve: ['monotoneCubic']
-      }
+     
 
     },
     xaxis: {
