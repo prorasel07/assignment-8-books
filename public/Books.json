@@ -1,0 +1,102 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/Vvp92rW/books1.png",
+      "rating": 2,
+      "totalPages": 281,
+      "tags": ["Classic", "Fiction"],
+      "category": "Novel",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 2,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/s1sN6Xp/books2.png",
+      "rating": 4,
+      "totalPages": 180,
+      "tags": ["Classic", "Fiction"],
+      "category": "Novel",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/CKY7ykf/books3.png",
+      "rating": 3,
+      "totalPages": 328,
+      "tags": ["Dystopian", "Fiction"],
+      "category": "Novel",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/FnY6FyK/books4.png",
+      "rating": 2,
+      "totalPages": 432,
+      "tags": ["Classic", "Romance"],
+      "category": "Novel",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 5,
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://i.ibb.co/SfSJP23/books5.png",
+      "rating": 2,
+      "totalPages": 332,
+      "tags": ["Fantasy", "Magic"],
+      "category": "Fantasy",
+      "yearOfPublishing": 1997
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/FhkCTpg/books6.png",
+      "rating": 5,
+      "totalPages": 310,
+      "tags": ["Fantasy", "Adventure"],
+      "category": "Fantasy",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 7,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/CvKFzq6/books7.png",
+      "rating": 5,
+      "totalPages": 277,
+      "tags": ["Classic", "Fiction"],
+      "category": "Novel",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 8,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/CKY7ykf/books3.png",
+      "rating": 3,
+      "totalPages": 324,
+      "tags": ["Classic", "Fiction"],
+      "category": "Novel",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 9,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/SfSJP23/books5.png",
+      "rating": 4,
+      "totalPages": 1178,
+      "tags": ["Fantasy", "Adventure"],
+      "category": "Fantasy",
+      "yearOfPublishing": 1954
+    }
+  ]
+  
